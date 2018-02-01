@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.poke-heroes{
+    width: 970px;
+    margin: 0 auto;
+}
+.info{
+    display: inline-block;
+}
